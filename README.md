@@ -1,17 +1,21 @@
 # eyemovement
 Description:
 
-This HTML document displays a map using Mapbox and a button to animate a marker's movement along predefined bus stops between Gandhipuram and Sulur.
+This HTML document creates a simple interactive face with moving eyes that follow the user's mouse cursor. The face consists of a yellow circle with two eyes, and the eyes' black pupils follow the mouse movement.
 
 How to run the code:
 
 step1:Save the HTML file with .html extension.
 
-step2:Click the "Go Live" button.A new browser window will open, displaying map moving from one place to another place.
+step2:Click the "Go Live" button.A new browser window will open, displaying EyeBall moving.
 
 Future Enhancement:
 
-1)Display real-time bus location data on the map for a more practical application.
+1)Add facial expressions or animations to make the interactive face more engaging.
 
-2)Add interactive features like bus stop information on click or route selection options.
+2)Implement user interaction, such as clicking on the eyes to trigger actions or reactions.
+
+
+
+
 
